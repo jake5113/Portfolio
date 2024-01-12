@@ -1,3 +1,5 @@
+# 링크 이동은 PDF에서만 동작합니다:)
+
 - [PDF](https://drive.google.com/file/d/1n0hLIE5zfzYFzOCGIArJ40lQ58hn-Cv4/view)
 
 - [PlayStore](https://play.google.com/store/apps/developer?id=Jongwon+Jake+Lee)
