@@ -6,7 +6,7 @@
 - [AppStore](https://apps.apple.com/kr/developer/jongwon-lee/id1726156550)
 
 ## iOS 포트폴리오
-[iOS 포트폴리오](https://github.com/jake5113/iOS_Portfolio) 
+- [iOS 포트폴리오](https://github.com/jake5113/iOS_Portfolio) 
 
 ## 안드로이드 포트폴리오
 
